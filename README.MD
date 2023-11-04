@@ -11,4 +11,4 @@ Este projeto trata-se de um sistema de treinos customizados desenvolvido com o o
 
 ## Link para o site:
 
-- [Página]https://atiliom0reira.github.io/treine.me/
+- [Página](https://atiliom0reira.github.io/treine.me/)
